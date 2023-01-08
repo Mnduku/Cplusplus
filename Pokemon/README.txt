@@ -1,0 +1,2 @@
+Simulates a mini pokemon game using an ASCII based map. You defeat all the monsters "M" to  win "T" is treasures that you pick up
+Treasures not fully implemented yet. Map is randomly generated every playthrough
