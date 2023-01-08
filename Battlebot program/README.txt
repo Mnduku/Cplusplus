@@ -1,0 +1,1 @@
+Simulates a randomly generated battle between 2 battlebots.
