@@ -1,2 +1,2 @@
 # BasicCpp
-Basic C++ Programs
+A collection of Basic C++ Programs I completed in college
