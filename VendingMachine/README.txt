@@ -1,0 +1,1 @@
+Beginner C++ program that simulates functions of a vending machine
